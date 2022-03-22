@@ -1,6 +1,9 @@
 ## What does this PR fix?
 <!-- A short description of what this PR does and/or fixes. -->
 
+### Link to issue
+<!-- If there's an issue, please include it here. -->
+
 ## (Technical) decisions
 <!-- Are there any trade-offs you made or decisions you want to explain?  -->
 
